@@ -1,1 +1,0 @@
-# Titanic-Veri-Seti-ML-modelleri-ile-hayatta-kalma-tahmini
